@@ -32,6 +32,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
      ┗ 📁 models
 
 🔎 Exploratory Data Analysis (EDA)
+
      1. Dataset shape inspection
      2. Null value checking
      3. Label distribution analysis
@@ -42,6 +43,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
      2. Balanced label distribution
 
 🧩 Data Preprocessing
+
     1. Normalized pixel values to range [0,1]
     2. Reshaped images to (28, 28, 1) for CNN input
     3. Converted labels to one-hot encoded vectors
