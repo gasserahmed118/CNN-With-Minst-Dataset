@@ -68,6 +68,7 @@ Metric: Accuracy
    4. Data augmentation used to improve generalization
 
 📊 Evaluation & Visualization
+
     1. Training and validation accuracy/loss curves
     2. Confusion matrix for multi-class classification
     3. Error analysis of misclassified digits
