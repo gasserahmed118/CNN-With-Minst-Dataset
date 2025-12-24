@@ -18,6 +18,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
    5. Classes: 10 (digits 0–9)
 
 🏗 Project Structure
+
     📦 mnist-cnn-digit-recognition
      ┣ 📜 README.md
      ┣ 📓 MNIST_CNN.ipynb
